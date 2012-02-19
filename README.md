@@ -1,5 +1,9 @@
 # Monsters Game, a developer test
 
+   The solution of this problem exist in the directory solution.
+   A fork hasn't been made to avoid of having the solution too accessible.
+   
+
 You are given a map containing the names of cities in the non-existent
 world of X.  The map is in a file, with one city per line.  The city
 name is first, followed by 1-4 directions (north, south, east, or
